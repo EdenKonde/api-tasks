@@ -1,3 +1,3 @@
 # Api-tasks
 
-## API contruída usando NodeJS e Express
+## API contruída usando NodeJS, Express e Mongoose
